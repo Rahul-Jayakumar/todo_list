@@ -49,9 +49,3 @@ next-env.d.ts
 *.swp
 *.swo
 *~
-
-# Local development
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-
